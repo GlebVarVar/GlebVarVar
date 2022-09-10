@@ -3,15 +3,15 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.GlebVarVar)
 
 ### About me
-- 🙋‍♂️ I'm Gleb Kostrov!
-- 📚 Freshmen at University of BSTU VOENMEH at Saint-Petersburg.
-- 🏀 Basketball, boxing, running.
+- 🙋‍♂️ My name is Gleb Kostrov and I am 19 years old!
+- 📚 Second course at University of BSTU VOENMEH at Saint-Petersburg
+- 🏀 Basketball, boxing, running
 - 🎞️ Marvel, Star Wars
 - 🧱 LCR owner - LEGO store on Bricklink
 
 ### Work
-- 🔭 I’m currently working on a secret 'pet' project
-- 🌱 I’m currently learning React(JS)
+- 🔭 I’m currently working at University of BSTU VOENMEH at Saint-Petersburg as a technician
+- 🌱 I’m currently learning React / TypeScript / Telegraf
 - 📫 How to reach me: anegada1@mail.ru
 
 
