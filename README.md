@@ -10,7 +10,7 @@
 - 🧱 LCR owner - LEGO store on Bricklink
 
 ### Work
-- 🔭 I’m currently working at University of BSTU VOENMEH at Saint-Petersburg as a technician
+- 🔭 I’m currently working at University of ITMO University at Saint-Petersburg as a technician programmer
 - 🌱 I’m currently learning React / TypeScript / Telegraf
 - 📫 How to reach me: anegada1@mail.ru
 
