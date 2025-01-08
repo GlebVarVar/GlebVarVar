@@ -3,7 +3,7 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.GlebVarVar)
 
 ### About me
-- 🙋‍♂️ My name is Gleb Kostrov and I am 20 years old!
+- 🙋‍♂️ My name is Gleb Kostrov and I am 21 years old!
 - 📚 Third course at University of BSTU VOENMEH at Saint-Petersburg
 - 🏀 Basketball, boxing, running
 - 🎞️ Marvel, Star Wars
