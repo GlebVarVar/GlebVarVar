@@ -4,7 +4,7 @@
 
 ### About me
 - 🙋‍♂️ My name is Gleb Kostrov and I am 21 years old!
-- 📚 Third course at University of BSTU VOENMEH at Saint-Petersburg
+- 📚 Fourth course at University of BSTU VOENMEH at Saint-Petersburg
 - 🏀 Basketball, boxing, running
 - 🎞️ Marvel, Star Wars
 - 🧱 LCR owner - LEGO store on Bricklink
